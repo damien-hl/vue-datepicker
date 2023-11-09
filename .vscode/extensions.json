@@ -2,6 +2,7 @@
     "recommendations": [
         "editorconfig.editorconfig",
         "vue.volar",
-        "vue.vscode-typescript-vue-plugin"
+        "vue.vscode-typescript-vue-plugin",
+        "bradlc.vscode-tailwindcss"
     ]
 }
