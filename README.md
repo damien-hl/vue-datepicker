@@ -1,3 +1,3 @@
-# Vue Chrono Tailwind
+# Vue DatePicker
 
-<p align="center">Vue DatePicker component styled with TailwindCSS</p>
+<p align="center">Date picker component using Vue and styled with TailwindCSS</p>
